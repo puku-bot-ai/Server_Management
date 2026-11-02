@@ -1,14 +1,5 @@
 {
   "approved": {},
   "approvals": {},
-  "issued": {
-    "0004": {
-      "serial": 4,
-      "expires": "2026-10-25T13:35:29Z"
-    },
-    "0005": {
-      "serial": 5,
-      "expires": "2026-10-25T14:01:30Z"
-    }
-  }
+  "issued": {}
 }
