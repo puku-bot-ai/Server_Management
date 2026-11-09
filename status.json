@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T22:26:02.097868563Z",
+  "generated_at": "2026-11-09T22:30:45.92604186Z",
   "commit": "62d3add4f8c2a6f955ade8f1905ca5412a658670",
   "grants": {},
   "servers": {
@@ -7,12 +7,12 @@
       "ok": false,
       "error": "not ready: server setup not done (not contacted)",
       "accounts": 0,
-      "applied_at": "2026-11-09T22:26:02.097868563Z"
+      "applied_at": "2026-11-09T22:30:45.92604186Z"
     },
     "demo": {
       "ok": true,
       "accounts": 0,
-      "applied_at": "2026-11-09T22:26:02.097868563Z"
+      "applied_at": "2026-11-09T22:30:45.92604186Z"
     }
   }
 }
